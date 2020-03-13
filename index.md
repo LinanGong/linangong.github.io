@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 巩俐男
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+数据分析师
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 个人经历
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LinanGong/linangong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+字节跳动
 
 ### 项目展示
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+异常发现
